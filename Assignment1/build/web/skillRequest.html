@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Skills Request</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <div>Choose a skill to check a skill level!</div>
+        <form action="SkillRequestServlet" method="post">
+            <select name="mydropdown">
+                <option name="clevel" value="C">C</option>
+                <option name="javalevel" value="Java">Java</option>
+                <option name="objclevel" value="Objective-C">Objective-C</option>
+                <option name="slevel" value="Swift">Swift</option>
+                <option name="rlevel" value="Ruby">Ruby</option>
+            </select>
+            
+            <input type="submit" value="Submit">
+        </form>
+    </body>
+</html>

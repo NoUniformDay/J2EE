@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/EricMcEvoy/NetBeansProjects/Assignment4EricMcEvoy/web/ListBook.jsp</file>
+            <file>file:/Users/EricMcEvoy/NetBeansProjects/Assignment4EricMcEvoy/web/BookUpdate.jsp</file>
+            <file>file:/Users/EricMcEvoy/NetBeansProjects/Assignment4EricMcEvoy/src/java/enterprise/web_jpa_war/entity/Book.java</file>
+            <file>file:/Users/EricMcEvoy/NetBeansProjects/Assignment4EricMcEvoy/web/index.jsp</file>
+            <file>file:/Users/EricMcEvoy/NetBeansProjects/Assignment4EricMcEvoy/src/java/enterprise/web_jpa_war/servlet/BookDeleteServlet.java</file>
+            <file>file:/Users/EricMcEvoy/NetBeansProjects/Assignment4EricMcEvoy/src/java/enterprise/web_jpa_war/servlet/SearchServlet.java</file>
+            <file>file:/Users/EricMcEvoy/NetBeansProjects/Assignment4EricMcEvoy/src/java/enterprise/web_jpa_war/entity/AbstractFacade.java</file>
+            <file>file:/Users/EricMcEvoy/NetBeansProjects/Assignment4EricMcEvoy/web/CreateBook.jsp</file>
+            <file>file:/Users/EricMcEvoy/NetBeansProjects/Assignment4EricMcEvoy/src/java/enterprise/web_jpa_war/servlet/BookUpdateServlet.java</file>
+            <file>file:/Users/EricMcEvoy/NetBeansProjects/Assignment4EricMcEvoy/web/BookSearch.jsp</file>
+            <file>file:/Users/EricMcEvoy/NetBeansProjects/Assignment4EricMcEvoy/src/java/enterprise/web_jpa_war/entity/BookFacade.java</file>
+            <file>file:/Users/EricMcEvoy/NetBeansProjects/Assignment4EricMcEvoy/src/java/enterprise/web_jpa_war/servlet/ListBookServlet.java</file>
+            <file>file:/Users/EricMcEvoy/NetBeansProjects/Assignment4EricMcEvoy/nbproject/build-impl.xml</file>
+            <file>file:/Users/EricMcEvoy/NetBeansProjects/Assignment4EricMcEvoy/src/conf/persistence.xml</file>
+            <file>file:/Users/EricMcEvoy/NetBeansProjects/Assignment4EricMcEvoy/src/java/enterprise/web_jpa_war/servlet/CreateBook.java</file>
+            <file>file:/Users/EricMcEvoy/NetBeansProjects/Assignment4EricMcEvoy/web/SearchResults.jsp</file>
+        </group>
+    </open-files>
+</project-private>
